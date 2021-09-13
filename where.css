@@ -1,0 +1,51 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 1.2em;
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 40px 10px;
+  line-height: 1.65em;
+  background: none;
+  color: none;
+  font-weight: 300;
+}
+
+h1 {
+  text-align: center;
+  margin: 50 0 5% 0;
+  font-size: 100px;
+  font-family: 'Gaegu', sans-serif;
+}
+
+#wordbox {
+    /*opacity: 0;*/
+    margin: 30px auto 0;
+    display: block;
+    width: 500px;
+    height: 75px;
+    font-size: 30px;
+    text-align: center;
+    background: #fff;
+    border-radius: 6px;
+    color: #black;
+    transition: 1s linear;
+    margin-top: 200px;
+    font-family: 'Gaegu', sans-serif;
+    font-size: 35px;
+}
+
+#button {
+  background: #0b7fba;
+    border: 0;
+    color: #fff;
+    font-size: 20px;
+    padding: 1em 2em;
+    cursor: pointer;
+    margin: 0 auto 60px;
+    display: block;
+    text-align: center;
+    border-radius: 6px;
+    font-weight: bold;
+    margin-top: 75px;
+    font-family: 'Gaegu', sans-serif;
+}
